@@ -8,7 +8,7 @@ QatarAirways
 * "6" kadar saniye bekle
 * ID'si "com.m.qr:id/onboarding_skip_button" olan elementi bul ve tıkla
 * "10" kadar saniye bekle
-*ID'si "com.m.qr:id/push_consent_decline" olan elementi bul ve tıkla
+* ID'si "com.m.qr:id/push_consent_decline" olan elementi bul ve tıkla
 * "10" kadar saniye bekle
 * ID'si "com.m.qr:id/nav_menu_book" olan elementi bul ve tıkla
 * "3" kadar saniye bekle
